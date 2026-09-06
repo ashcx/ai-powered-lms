@@ -1,0 +1,201 @@
+question_id,quiz_id,question_text,subtopic
+QN1,QZ10,How does Python’s pandas library handle missing data during preprocessing in a typical data science workflow?,Introduction to Data Science in Python
+QN2,QZ10,How can Pandas' groupby function transform and summarize time-series data for detecting seasonal trends in Python?,Introduction to Data Science in Python
+QN3,QZ10,How does Python's pandas library simplify handling missing data in large datasets during exploratory analysis?,Introduction to Data Science in Python
+QN4,QZ10,How does Python's versatility influence the choice of libraries when performing exploratory data analysis in data science?,Introduction to Data Science in Python
+QN5,QZ10,How does Python’s Pandas library simplify handling missing data during exploratory data analysis in Data Science?,Introduction to Data Science in Python
+QN6,QZ10,"Which Python library combines data manipulation and visualization, enabling exploratory data analysis in a seamless workflow?",Introduction to Data Science in Python
+QN7,QZ10,How can Python’s list comprehensions enhance the efficiency of data cleaning steps in a data science pipeline?,Introduction to Data Science in Python
+QN8,QZ10,How can you leverage Python's List Comprehensions to efficiently filter and transform large datasets in an introductory data science project?,Introduction to Data Science in Python
+QN9,QZ10,How can Python’s Slicing technique help in quickly analyzing time-series data within a Data Science project?,Introduction to Data Science in Python
+QN10,QZ11,What Python method fills missing dataframe values using backward fill technique and how does it differ from forward fill?,Dealing with Missing Data in Python
+QN11,QZ11,Which Pandas function allows conditional replacement of missing values based on another column’s criteria without global imputation?,Dealing with Missing Data in Python
+QN12,QZ11,How can you differentiate between missing values and values coded as zeros in a pandas DataFrame during data cleaning?,Dealing with Missing Data in Python
+QN13,QZ11,Which Python function can be used to replace missing float values with the column median without altering the original DataFrame?,Dealing with Missing Data in Python
+QN14,QZ11,Which pandas function can you combine with interpolation to fill missing time series data based on trend rather than just static values?,Dealing with Missing Data in Python
+QN15,QZ10,How can you efficiently handle missing data in a Python DataFrame without removing entire rows or columns?,Introduction to Data Science in Python
+QN16,QZ11,How can you use pandas to differentiate between missing data represented as NaN versus custom placeholder values for accurate imputation?,Dealing with Missing Data in Python
+QN17,QZ11,How can forward fill and backward fill techniques differ in impact when imputing time-sequenced missing data using pandas in Python?,Dealing with Missing Data in Python
+QN18,QZ12,How can you efficiently filter rows in a pandas DataFrame where multiple columns meet different numeric conditions simultaneously?,Data Manipulation in pandas
+QN19,QZ11,Which pandas function allows replacing missing values conditionally based on customized logic within the DataFrame?,Dealing with Missing Data in Python
+QN20,QZ12,How can you efficiently replace missing values with the column median in a pandas DataFrame without using the fillna() method?,Data Manipulation in pandas
+QN21,QZ12,"How can you efficiently chain multiple pandas DataFrame methods to filter, sort, and select top N rows in one line?",Data Manipulation in pandas
+QN22,QZ12,How can you efficiently replace all NaN values in a DataFrame with the mean of their respective columns using pandas?,Data Manipulation in pandas
+QN23,QZ12,How can you efficiently replace missing values in a DataFrame’s multiple columns with different strategies using pandas?,Data Manipulation in pandas
+QN24,QZ12,How can you efficiently pivot a DataFrame in pandas to show average sales per product category across different regions?,Data Manipulation in pandas
+QN25,QZ12,"How can the `pivot_table` function be used in pandas to summarize multi-dimensional data, and what advantages does it offer over traditional groupby methods?",Data Manipulation in pandas
+QN26,QZ13,How can transforming skewed data using Python's EDA libraries improve the accuracy of statistical analyses?,EDA in Python
+QN27,QZ12,How can you efficiently replace all negative values in a pandas DataFrame with the mean of their respective columns?,Data Manipulation in pandas
+QN28,QZ12,How can you efficiently transform missing values in a pandas DataFrame column using a custom lambda function for conditional replacement?,Data Manipulation in pandas
+QN29,QZ12,"In pandas, how can you efficiently swap two columns in a DataFrame without creating a new DataFrame?",Data Manipulation in pandas
+QN30,QZ13,Which Python library function would you use to quickly detect missing values and visualize data completeness in a DataFrame during EDA?,EDA in Python
+QN31,QZ13,Which Python method provides a quick preliminary summary of missing data patterns in a DataFrame during EDA?,EDA in Python
+QN32,QZ13,How can you visually identify multimodal distributions in a dataset using Python’s matplotlib or seaborn libraries during EDA?,EDA in Python
+QN33,QZ13,How can Python’s Seaborn library uniquely visualize bi-variate relationships during EDA compared to Matplotlib? Describe one specific plot type.,EDA in Python
+QN34,QZ13,"In Python’s EDA, how does `pairplot` from Seaborn help uncover subtle multivariate relationships compared to simple correlation matrices?",EDA in Python
+QN35,QZ14,How can seaborn's categorical plot types help visualize the distribution differences between multiple groups in a dataset?,Introduction to Data Visualisation with Seaborn
+QN36,QZ11,"In pandas, how can you differentiate between dropped rows using dropna() and rows imputed with fillna() in visualizing missing data workflows?",Dealing with Missing Data in Python
+QN37,QZ14,How does Seaborn's integration with Pandas DataFrames enhance the process of visualizing complex correlated variables?,Introduction to Data Visualisation with Seaborn
+QN38,QZ13,How does the pandas `describe()` function enhance efficiency during exploratory data analysis in Python? Provide a unique scenario where it proves indispensable.,EDA in Python
+QN39,QZ14,How can Seaborn’s FacetGrid be used to compare multiple subsets of data visually in a single plot?,Introduction to Data Visualisation with Seaborn
+QN40,QZ13,How does the Pandas `.groupby()` function aid in uncovering insights during Exploratory Data Analysis in Python?,EDA in Python
+QN41,QZ14,How does Seaborn's use of built-in themes enhance interpretability and aesthetic quality in data visualization compared to Matplotlib's default settings?,Introduction to Data Visualisation with Seaborn
+QN42,QZ14,How can Seaborn's built-in color palettes enhance the interpretability of a multi-category scatterplot beyond default Matplotlib tones?,Introduction to Data Visualisation with Seaborn
+QN43,QZ13,Which Python library offers both interactive visualizations and summary statistics for high-dimensional Exploratory Data Analysis (EDA) beyond Pandas and Matplotlib?,EDA in Python
+QN44,QZ14,How can Seaborn's color palettes be customized to improve visual distinction in multidimensional data plots?,Introduction to Data Visualisation with Seaborn
+QN45,QZ14,"Which Seaborn function best visualizes pairwise relationships with distributions on the diagonal, allowing insight into multiple variables simultaneously?",Introduction to Data Visualisation with Seaborn
+QN46,QZ14,"How can Seaborn's ""pairplot"" enhance understanding of multivariate relationships compared to traditional scatter plots?",Introduction to Data Visualisation with Seaborn
+QN47,QZ15,How does the `.fit()` method in Python's statsmodels optimize parameters in a linear regression model using Ordinary Least Squares?,Introduction to Regression with stats models in Python
+QN48,QZ15,"In statsmodels, what purpose does the .summary() method serve after fitting a regression model, and which key metric indicates model fit quality?",Introduction to Regression with stats models in Python
+QN49,QZ15,How does removing the intercept term in statsmodels' OLS regression impact the interpretation of model coefficients?,Introduction to Regression with stats models in Python
+QN50,QZ15,How can you interpret the p-value in the regression output from Python’s statsmodels to determine a predictor's significance?,Introduction to Regression with stats models in Python
+QN51,QZ15,How does the summary output from statsmodels’ OLS function help identify multicollinearity in a regression model?,Introduction to Regression with stats models in Python
+QN52,QZ15,How does the statsmodels library in Python differ from scikit-learn for regression in terms of statistical inference capabilities?,Introduction to Regression with stats models in Python
+QN53,QZ14,How can Seaborn's 'hue' parameter enhance multivariate data visualization in a single plot? Provide an example.,Introduction to Data Visualisation with Seaborn
+QN54,QZ15,How does the `statsmodels` OLS method internally estimate coefficients differently from scikit-learn’s LinearRegression in linear models?,Introduction to Regression with stats models in Python
+QN55,QZ15,"In Python’s statsmodels, which method reveals regression summary statistics and helps diagnose multicollinearity issues in an OLS model?",Introduction to Regression with stats models in Python
+QN56,QZ15,"In Python's statsmodels, which method extracts coefficient estimates proving variable impact in linear regression, and how does it differ from summary()?",Introduction to Regression with stats models in Python
+QN57,QZ16,How can you determine the optimal number of clusters in K-Means clustering without using the Elbow Method in Python?,Cluster Analysis in Python (K-Means Clustering)
+QN58,QZ16,How does the choice of initial centroids affect convergence speed and final clusters in Python's K-Means implementation?,Cluster Analysis in Python (K-Means Clustering)
+QN59,QZ16,How does the choice of 'k' in K-means clustering impact the silhouette score and cluster compactness in a Python implementation?,Cluster Analysis in Python (K-Means Clustering)
+QN60,QZ16,"How does initialization of centroids impact the convergence speed and final clusters in K-Means applied to large, high-dimensional datasets?",Cluster Analysis in Python (K-Means Clustering)
+QN61,QZ15,How can you use statsmodels to assess multicollinearity in a multiple regression model with Python data?,Introduction to Regression with stats models in Python
+QN62,QZ16,How does choosing different initial centroids in K-Means.py impact cluster convergence and final groupings in high-dimensional data?,Cluster Analysis in Python (K-Means Clustering)
+QN63,QZ16,How does the K-Means algorithm handle initialization to avoid suboptimal clustering in Python's scikit-learn implementation?,Cluster Analysis in Python (K-Means Clustering)
+QN64,QZ16,How can you use Python's K-Means to identify clusters in customer purchase data with overlapping buying patterns?,Cluster Analysis in Python (K-Means Clustering)
+QN65,QZ16,How can you determine the optimal number of clusters in K-Means using Python without relying solely on the Elbow Method?,Cluster Analysis in Python (K-Means Clustering)
+QN66,QZ16,"How can you initialize centroids strategically in K-Means clustering to improve convergence speed in Python, beyond random selection?",Cluster Analysis in Python (K-Means Clustering)
+QN67,QZ14,How can Seaborn's `FacetGrid` enhance multi-dimensional data visualization compared to a single scatter plot?,Introduction to Data Visualisation with Seaborn
+QN68,QZ11,Which Pandas function allows you to replace missing numeric values with the column median while leaving non-numeric columns unchanged?,Dealing with Missing Data in Python
+QN69,QZ16,"How does random initialization in K-Means affect cluster reproducibility in Python, and how can you mitigate its impact programmatically?",Cluster Analysis in Python (K-Means Clustering)
+QN70,QZ13,How does the pandas `describe()` function differ when applied to categorical versus numerical data during EDA in Python?,EDA in Python
+QN71,QZ01,How can outlier detection in data analytics enhance the accuracy of predictive models before visualization begins?,Intro to Data Analytics
+QN72,QZ01,How can data anomalies discovered during exploratory analysis impact the conclusions drawn in data analytics projects?,Intro to Data Analytics
+QN73,QZ01,How does exploratory data analysis (EDA) enhance the decision-making process before applying predictive models?,Intro to Data Analytics
+QN74,QZ01,How can data visualization enhance the interpretability of patterns in raw datasets during the initial stages of data analytics?,Intro to Data Analytics
+QN75,QZ01,How can data visualization uncover hidden patterns in raw data that traditional statistical summaries might miss?,Intro to Data Analytics
+QN76,QZ01,How can exploratory data analysis influence the choice of visualization methods in uncovering hidden patterns within a new dataset?,Intro to Data Analytics
+QN77,QZ01,How does exploratory data analysis enhance decision-making in data analytics beyond just generating static reports?,Intro to Data Analytics
+QN78,QZ01,How can anomaly detection in datasets improve decision-making during the initial stages of data analytics?,Intro to Data Analytics
+QN79,QZ01,How does converting raw data into informative visuals improve insights during the initial phase of data analytics?,Intro to Data Analytics
+QN80,QZ01,How does focusing on data quality early in analytics impact the accuracy of visualized insights in decision-making processes?,Intro to Data Analytics
+QN81,QZ02,How can correlation heatmaps guide feature selection during exploratory data analysis?,Exploratory Data Analysis
+QN82,QZ02,How can North Star metrics influence exploratory data analysis in identifying actionable business insights?,Exploratory Data Analysis
+QN83,QZ02,"How does the choice of visualization technique influence the insights gained during exploratory data analysis of large, multi-dimensional datasets?",Exploratory Data Analysis
+QN84,QZ02,How can outlier detection during Exploratory Data Analysis influence the choice of visualization techniques for a dataset?,Exploratory Data Analysis
+QN85,QZ02,How can identifying multivariate outliers enhance the insights gained during Exploratory Data Analysis?,Exploratory Data Analysis
+QN86,QZ02,Which visualization best helps identify both skewness and potential outliers during exploratory data analysis of a numerical dataset?,Exploratory Data Analysis
+QN87,QZ02,How can a box plot reveal underlying data skewness and potential outliers during exploratory data analysis?,Exploratory Data Analysis
+QN88,QZ02,How can pairing correlation heatmaps with pair plots enhance the insight gained during Exploratory Data Analysis?,Exploratory Data Analysis
+QN89,QZ03,Why is detecting and treating outliers crucial during data preparation for accurate visual analytics?,Data Preparation
+QN90,QZ02,How can bivariate plotting enhance insight during exploratory data analysis beyond what summary statistics reveal?,Exploratory Data Analysis
+QN91,QZ03,How can feature scaling during data preparation influence the interpretation of visual analytics dashboards?,Data Preparation
+QN92,QZ03,How can transforming skewed data during preparation improve the clarity and reliability of visual analytics?,Data Preparation
+QN93,QZ03,How does handling missing values differently impact the accuracy of a predictive model in data preparation?,Data Preparation
+QN94,QZ03,How does handling missing data during preparation impact the accuracy of predictive analytics models?,Data Preparation
+QN95,QZ03,How does data imputation differ from data interpolation in the context of preparing datasets for accurate visualization?,Data Preparation
+QN96,QZ02,How can bimodal distribution in a dataset influence your choice of visualization method during exploratory data analysis?,Exploratory Data Analysis
+QN97,QZ03,How does handling missing values intelligently during data preparation impact the accuracy and reliability of downstream visual analytics?,Data Preparation
+QN98,QZ03,How can intelligent data imputation improve the accuracy of visual analytics in incomplete datasets?,Data Preparation
+QN99,QZ03,What is the impact of improperly handling missing data during data preparation on the final visual analytics model’s accuracy?,Data Preparation
+QN100,QZ04,How can time series forecasting enhance predictive analytics to improve customer retention strategies in e-commerce platforms?,Predictive Analytics
+QN101,QZ03,How can missing data imputation impact the accuracy of predictive models in data visualization analytics?,Data Preparation
+QN102,QZ04,How can time-series forecasting enhance decision-making in predictive analytics when analyzing seasonal sales trends in retail data?,Predictive Analytics
+QN103,QZ04,How can visualizing model residuals enhance the accuracy interpretation of predictive analytics in time-series forecasting?,Predictive Analytics
+QN104,QZ04,How can combining real-time data streams with historical trends enhance the accuracy of predictive analytics models in dynamic environments?,Predictive Analytics
+QN105,QZ04,How can combining time-series forecasts with real-time dashboards enhance decision-making in predictive analytics?,Predictive Analytics
+QN106,QZ04,How can data visualization enhance the interpretability of predictive model outcomes when forecasting future trends?,Predictive Analytics
+QN107,QZ04,How can integrating anomaly detection with predictive analytics improve decision-making in dynamic data environments?,Predictive Analytics
+QN108,QZ04,How can time series forecasting enhance customer demand prediction in e-commerce using predictive analytics and data visualization techniques?,Predictive Analytics
+QN109,QZ04,How can data visualization enhance the accuracy of predictive analytics in identifying future market trends?,Predictive Analytics
+QN110,QZ04,How can integrating real-time streaming data enhance the accuracy of predictive analytics models in dynamic business environments?,Predictive Analytics
+QN111,QZ17,How can you optimize bulk data export from MySQL for efficient integration into a cloud-based data warehouse?,Data Integration: MySQL
+QN112,QZ17,How can MySQL’s FEDERATED storage engine enhance real-time data integration in a distributed data warehousing environment?,Data Integration: MySQL
+QN113,QZ17,Which MySQL feature allows seamless data integration by synchronizing extracted data streams in real-time for efficient data warehousing?,Data Integration: MySQL
+QN114,QZ17,How can MySQL’s `FEDERATED` storage engine facilitate real-time data integration in distributed data warehousing environments?,Data Integration: MySQL
+QN115,QZ17,How can MySQL’s FEDERATED storage engine aid data integration in a data warehouse environment?,Data Integration: MySQL
+QN116,QZ17,How can SQL queries in MySQL be optimized to efficiently integrate and synchronize large datasets within a data warehouse?,Data Integration: MySQL
+QN117,QZ17,How can user-defined variables in MySQL streamline the data merging process during ETL in data warehousing?,Data Integration: MySQL
+QN118,QZ17,How can MySQL’s federation engine be leveraged to integrate distributed data sources seamlessly in a data warehousing environment?,Data Integration: MySQL
+QN119,QZ17,How can you optimize bulk data ingestion into MySQL from diverse sources for real-time data warehousing without affecting transactional workload?,Data Integration: MySQL
+QN120,QZ17,How can you efficiently handle schema changes in MySQL during incremental data integration for real-time data warehousing?,Data Integration: MySQL
+QN121,QZ18,How can embedding natural language generation (NLG) improve the interpretability of BI dashboards for non-technical users?,BI Intelligence
+QN122,QZ18,How does Augmented Analytics enhance BI intelligence in detecting hidden patterns within organizational data?,BI Intelligence
+QN123,QZ18,How does BI intelligence enhance predictive analytics to improve decision-making in dynamic market environments?,BI Intelligence
+QN124,QZ18,How does predictive analytics enhance BI intelligence to transform raw data into proactive business strategies?,BI Intelligence
+QN125,QZ18,How does BI Intelligence leverage machine learning to enhance predictive analytics in decision-making processes?,BI Intelligence
+QN126,QZ18,How can BI Intelligence enhance decision-making by transforming unstructured data into actionable business insights?,BI Intelligence
+QN127,QZ18,How does BI Intelligence transform raw data into actionable insights that guide strategic business decisions?,BI Intelligence
+QN128,QZ18,How does BI Intelligence transform unstructured data into actionable insights for strategic business decisions?,BI Intelligence
+QN129,QZ18,How does artificial intelligence enhance predictive accuracy within BI Intelligence to enable proactive business decision-making?,BI Intelligence
+QN130,QZ19,How does Type 2 Slowly Changing Dimension balance normalization challenges while preserving historical data in a data warehouse model?,DW Model: Normalization + SCD
+QN131,QZ19,How does Type 2 Slowly Changing Dimension manage historical data in a normalized data warehouse schema?,DW Model: Normalization + SCD
+QN132,QZ18,How can predictive analytics in BI intelligence transform real-time decision-making and create a competitive business advantage?,BI Intelligence
+QN133,QZ19,How does normalization impact the design of Slowly Changing Dimensions in a data warehouse schema?,DW Model: Normalization + SCD
+QN134,QZ19,How does gradual normalization impact the design and performance of Slowly Changing Dimensions in a data warehouse?,DW Model: Normalization + SCD
+QN135,QZ19,How does Type 2 Slowly Changing Dimension impact normalization in a star schema data warehouse model?,DW Model: Normalization + SCD
+QN136,QZ19,How does Slowly Changing Dimension Type 2 leverage normalization to preserve historical data in a data warehouse schema?,DW Model: Normalization + SCD
+QN137,QZ19,How does Type 2 Slowly Changing Dimension ensure historical accuracy in a normalized data warehouse model?,DW Model: Normalization + SCD
+QN138,QZ19,How does Type 2 Slowly Changing Dimension handle historical data while maintaining a normalized Data Warehouse schema?,DW Model: Normalization + SCD
+QN139,QZ19,How does Type 2 Slowly Changing Dimension ensure historical accuracy in a normalized data warehouse model?,DW Model: Normalization + SCD
+QN140,QZ19,How does normalization influence the design of Slowly Changing Dimension (SCD) tables in a data warehouse schema?,DW Model: Normalization + SCD
+QN141,QZ20,"Which DW schema optimizes query speed by simplifying multiple star schemas into a single, large fact table structure?",DW Model: DW Schemas
+QN142,QZ20,"In a snowflake schema, how does normalization of dimensions affect query performance compared to a star schema?",DW Model: DW Schemas
+QN143,QZ20,How do constellation schemas enhance query performance compared to simple star schemas in complex data warehousing environments?,DW Model: DW Schemas
+QN144,QZ20,How does a snowflake schema optimize query performance compared to a star schema in large-scale data warehouse systems?,DW Model: DW Schemas
+QN145,QZ20,How does snowflake schema improve query performance compared to star schema despite additional complexity in data warehousing?,DW Model: DW Schemas
+QN146,QZ20,How does a galaxy schema differ structurally and functionally from a star schema in data warehousing?,DW Model: DW Schemas
+QN147,QZ20,How do snowflake schemas impact query performance and complexity compared to star schemas in data warehousing?,DW Model: DW Schemas
+QN148,QZ20,How does a Galaxy Schema differ from a Star Schema in combining multiple fact tables for complex business queries?,DW Model: DW Schemas
+QN149,QZ20,"In a star schema, how can adding aggregated fact tables enhance query performance without compromising schema simplicity?",DW Model: DW Schemas
+QN150,QZ20,How does a snowflake schema uniquely optimize query performance compared to a star schema in complex dimensional hierarchies?,DW Model: DW Schemas
+QN151,QZ05,"If a statement “If P then Q” is true, and Q is false, what can you conclude about P using classical logic?",Logic
+QN152,QZ05,"If all swans are white, and no white birds fly at night, can a black flying bird be a swan? Explain your reasoning.",Logic
+QN153,QZ05,"If every truth ship sinks, can a floating ship ever carry a falsehood? Explain this paradox using formal logic principles.",Logic
+QN154,QZ05,"If every statement you say is false, can you truthfully claim ""I am lying right now""? Why or why not?",Logic
+QN155,QZ05,"If P and Q are propositions, and ¬(P ∧ Q) is true, which compound proposition must also be true?",Logic
+QN156,QZ05,"If every unicorn is a creature that always lies, can a statement from a unicorn ever be logically true or false? Explain your reasoning.",Logic
+QN157,QZ05,"If the statement ""If P then Q"" is true, and Q is false, what can you conclude about P?",Logic
+QN158,QZ05,"If every mathematician is truthful and some truthful ones are clever, can a clever non-mathematician be untruthful? Justify logically.",Logic
+QN159,QZ05,"If every statement ""If P then Q"" implies ""If not Q then not P,"" what is this logic rule called?",Logic
+QN160,QZ05,"If all swans in a set are black, can the statement ""There exists a non-black swan"" ever be logically true? Why or why not?",Logic
+QN161,QZ06,"If a function f(x) satisfies f(f(x)) = 4x + 3, what is f(x) assuming it is linear?",Function
+QN162,QZ06,"If \(f(x) = x^2 - 3x + 2\), find all \(x\) such that \(f(f(x)) = 0\).",Function
+QN163,QZ06,"If \( f(x) = 2x+1 \) and \( g(x) = x^2 \), what is the domain of \( f(g(x)) \)?",Function
+QN164,QZ06,"If \( f(x) \) is a one-to-one function and \( f(f(x)) = 2x + 3 \), find \( f^{-1}(x) \) in terms of \( x \).",Function
+QN165,QZ06,"If \( f(f(x)) = 4x + 3 \) and \( f(x) = ax + b \), what are the values of \( a \) and \( b \)?",Function
+QN166,QZ06,"If f(x) = 3x + 2 and g(x) = f(f(x)), what is the simplified expression for g(x) without using function notation?",Function
+QN167,QZ06,"If \(f(x)=2x+3\) and \(g(x)=x^2\), find \( (g \circ f)(-1) \) without simplifying intermediate steps.",Function
+QN168,QZ06,"If \( f(x) = 2x + 3 \) and \( f^{-1}(x) = ax + b \), find the values of \( a \) and \( b \) without solving normally.",Function
+QN169,QZ06,"If \(f(x) = 2x + 3\) and \(f^{-1}(x) = \frac{x - 3}{2}\), find \(f(f^{-1}(7)) - f^{-1}(f(1))\).",Function
+QN170,QZ06,"If \(f(x) = \frac{2x+3}{x-1}\) and \(f^{-1}(x)\) is its inverse, what is \(f^{-1}(2)\)?",Function
+QN171,QZ07,"What is the 10th term of a sequence where each term equals the sum of its index and twice the previous term, starting with 1?",Sequence & Recursion
+QN172,QZ07,"If \(a_n = 3a_{n-1} - 2a_{n-2}\) with \(a_0=2\), \(a_1=5\), what is \(a_3\)?",Sequence & Recursion
+QN173,QZ07,"If \( a_n = 3a_{n-1} - 2a_{n-2} \) with \( a_0 = 2 \) and \( a_1 = 5 \), what is \( a_4 \)?",Sequence & Recursion
+QN174,QZ07,"If a sequence \(a_n\) satisfies \(a_n = n \cdot a_{n-1} + 2\) with \(a_1 = 3\), what is \(a_3\)?",Sequence & Recursion
+QN175,QZ07,"If a sequence \(a_n\) satisfies \(a_{n+2} = 3a_{n+1} - 2a_n\) with \(a_1=2\) and \(a_2=5\), find \(a_4\).",Sequence & Recursion
+QN176,QZ07,"If f(n) = 2f(n-1) + 3, with f(1) = 4, what is the value of f(4)?",Sequence & Recursion
+QN177,QZ07,What is the 7th term of the sequence defined by \( a_n = 2a_{n-1} + 3 \) with \( a_1 = 1 \)?,Sequence & Recursion
+QN178,QZ07,"If a sequence is defined as \(a_n = 3a_{n-1} - 2a_{n-2}\) with \(a_0=2\) and \(a_1=5\), find \(a_3\).",Sequence & Recursion
+QN179,QZ07,"Given \(a_1 = 1\) and \(a_{n+1} = 2a_n + n\), find a closed form expression for \(a_n\).",Sequence & Recursion
+QN180,QZ07,"Given the recursive sequence \(a_n = 3a_{n-1} - 2a_{n-2}\) with \(a_1=2\), \(a_2=5\), find \(a_4\).",Sequence & Recursion
+QN181,QZ08,"In a weighted graph, can a shortest path contain a cycle with total negative weight? Justify why or why not.",Graphs
+QN182,QZ08,"In a directed graph, how does the presence of a Hamiltonian circuit influence the graph’s strongly connected components?",Graphs
+QN183,QZ08,"In a connected graph with an odd number of vertices, how many edges must have an odd degree at minimum?",Graphs
+QN184,QZ08,"If a graph's vertices represent cities and edges highways with weights as travel times, how would you identify the shortest round trip visiting all cities once?",Graphs
+QN185,QZ08,"In a connected graph, how does performing a Depth-First Search help identify articulation points critical for network reliability?",Graphs
+QN186,QZ08,"In a simple connected graph, what is the minimum number of edges required to guarantee an Eulerian circuit exists?",Graphs
+QN187,QZ08,"In a graph where every vertex’s degree is even, what can be deduced about the existence of Eulerian circuits?",Graphs
+QN188,QZ08,"In a connected graph, how many edges must you remove to maximize the count of isolated vertices without disconnecting any original components?",Graphs
+QN189,QZ08,"In a connected graph with even degrees on all vertices, what unique property does its Euler circuit demonstrate compared to one with odd-degree vertices?",Graphs
+QN190,QZ09,"If two fair dice are rolled, what is the probability that the sum is a prime number or one of the dice shows a 4?",Probability
+QN191,QZ09,"If two independent events each have a 30% chance of occurring, what is the probability exactly one event occurs?",Probability
+QN192,QZ09,"If two independent events have probabilities 0.4 and 0.7, what is the probability of neither event occurring?",Probability
+QN193,QZ09,"If two dice are rolled, what is the probability their sum is a prime number and both dice show different values?",Probability
+QN194,QZ09,"If a biased coin has a 70% chance of heads, what is the probability of exactly two heads in three flips?",Probability
+QN195,QZ08,"In a graph where each vertex connects exactly to two others, how many distinct cycles must the graph contain at minimum?",Graphs
+QN196,QZ09,"If two dice are rolled, what is the probability that the sum is a prime number greater than 7?",Probability
+QN197,QZ09,"If three fair coins are tossed simultaneously, what is the probability of getting exactly two heads and one tail instead of all heads or all tails?",Probability
+QN198,QZ09,"If three dice are rolled simultaneously, what is the probability that the sum is a prime number greater than 10?",Probability
+QN199,QZ09,"If two independent events each have a 60% chance of occurring, what is the probability exactly one occurs?",Probability
+QN200,QZ09,"If two dice are rolled, what is the probability that the sum is a prime number greater than 5 but less than 12?",Probability

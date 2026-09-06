@@ -1,0 +1,93 @@
+/* make every Streamlit button look like a full‑bleed gradient card */
+div[data-testid="stButton"] button {
+    all: unset !important;            /* strip Streamlit defaults */
+    width: 210px !important;
+    height: 300px !important;
+    display: flex !important;
+    align-items: flex-end !important;
+    justify-content: flex-start !important;
+  
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 900 !important;
+    font-size: 40px !important;
+  
+    /* Replace gradient with a PNG background */
+    --card-bg-opacity: 0.2 !important;  /* adjust this value between 0 (transparent) and 1 (opaque) */
+    background-image: url('https://res.cloudinary.com/dyhtl5xvh/image/upload/v1752049749/original-3ee4edfe342bc334e978dd0dc7e59f0d_copy-3_1_gdabdd.webp') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-color: rgba(0,0,0, var(--card-bg-opacity)) !important;
+    background-blend-mode: overlay !important;
+    backdrop-filter: blur(10px) !important;
+  
+    border-radius: 25px !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25) !important;
+  
+    color: #fff !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    cursor: pointer !important;
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  
+  /* bottom-left text padding */
+  div[data-testid="stButton"] > button > div {
+    width: 100% !important;
+    text-align: left !important;
+    padding: 0 16px 24px 16px !important;
+  }
+  
+  div[data-testid="stButton"] button:hover {
+    transform: translateY(-4px) !important;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.35) !important;
+  }
+  
+  div[data-testid="stButton"] {padding: 12px 4px !important;}
+  
+  /* ensure inner text is large and ultra-bold */
+  div[data-testid="stButton"] > button,
+  div[data-testid="stButton"] > button > div,
+  div[data-testid="stButton"] > button > div > div {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+    font-size: 2.25rem !important;  /* ~36px */
+    text-align: left !important;
+  }
+
+/* Reset styling for student chip buttons back to default */
+div[data-testid="stButton"] button[id^="student_chip_"] {
+  all: unset !important;                       /* clear prior custom rules */
+  padding: 0.5rem 1rem !important;            /* reapply defaults */
+  background: var(--secondary-background-color) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.25rem !important;
+}
+
+div[data-testid="stButton"] button[id^="student_chip_"] > div {
+  all: unset !important;                       /* clear prior custom rules */
+  padding: 0.5rem 1rem !important;            /* reapply defaults */
+  background: var(--secondary-background-color) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.25rem !important;
+}
+
+div[data-testid="stButton"] button[id^="student_chip_"] > div > div {
+  all: unset !important;                       /* clear prior custom rules */
+  padding: 0.5rem 1rem !important;            /* reapply defaults */
+  background: var(--secondary-background-color) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.25rem !important;
+}
+
+div[data-testid="stButton"] button[id^="student_chip_"]:hover {
+  all: unset !important;                       /* clear prior custom rules */
+  padding: 0.5rem 1rem !important;            /* reapply defaults */
+  background: var(--secondary-background-color) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.25rem !important;
+}
+
+div[data-testid="stButton"] button[id^="student_chip_"] {
+  all: unset !important;                       /* clear prior custom rules */
+}
+  

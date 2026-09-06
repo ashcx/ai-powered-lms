@@ -1,0 +1,201 @@
+question_id,test_id,subtopic,question_text
+QN1,TS01,Intro to Data Analytics,How can anomaly detection in data analytics transform raw data into actionable insights for predictive decision-making?
+QN2,TS01,Intro to Data Analytics,How can anomaly detection in data analytics uncover insights that traditional mean-based analysis might overlook?
+QN3,TS01,Intro to Data Analytics,"How can correlation mislead data interpretation, and what approach helps confirm true causal relationships in analytics?"
+QN4,TS01,Intro to Data Analytics,How can anomaly detection enhance decision-making in real-time data analytics for financial forecasting?
+QN5,TS01,Intro to Data Analytics,How can data triangulation enhance the validity of insights in an introductory data analytics project?
+QN6,TS01,Intro to Data Analytics,How can pattern recognition in raw data transform decision-making in real-time analytics environments?
+QN7,TS01,Exploratory Data Analysis,How can parallel coordinates plots uncover patterns in multidimensional data that traditional 2D scatterplots might miss? Explain briefly.
+QN8,TS01,Intro to Data Analytics,How can data visualization enhance the identification of hidden patterns during the exploratory data analysis phase?
+QN9,TS01,Exploratory Data Analysis,How can multidimensional scaling enhance understanding of complex datasets during exploratory data analysis? Explain with an example.
+QN10,TS01,Exploratory Data Analysis,How can combining scatter plots with marginal histograms enhance insights during Exploratory Data Analysis? Explain with an example.
+QN11,TS01,Data Preparation,How does exploring data skewness during preparation influence the choice of transformation techniques in visualization?
+QN12,TS01,Data Preparation,How can anomaly detection during data preparation improve the reliability of predictive analytics in data visualization projects?
+QN13,TS01,Exploratory Data Analysis,How can simultaneous boxplots offer deeper insights into data variability across multiple categories during exploratory analysis?
+QN14,TS01,Data Preparation,"How can feature scaling impact clustering results in data preparation, and why might it be crucial for algorithms like K-means?"
+QN15,TS01,Data Preparation,How can feature scaling impact the interpretability of data visualizations in clustering algorithms?
+QN16,TS01,Exploratory Data Analysis,How can distribution skewness revealed in EDA influence the choice of data transformation techniques before predictive modeling?
+QN17,TS01,Data Preparation,"How does feature scaling impact clustering results, and which method preserves the original distribution while standardizing magnitude?"
+QN18,TS01,Predictive Analytics,How can integrating sentiment analysis into predictive models enhance forecast accuracy in market trend prediction?
+QN19,TS01,Predictive Analytics,"How does the incorporation of time-series external variables enhance accuracy in predictive analytics models, and what challenges does it introduce?"
+QN20,TS01,Predictive Analytics,How can anomaly detection in predictive analytics improve decision-making in supply chain forecasting under uncertain conditions?
+QN21,TS01,Predictive Analytics,"How can ensemble learning improve predictive model accuracy in volatile datasets, and what trade-offs might it introduce in computational complexity and interpretability?"
+QN22,TS01,Predictive Analytics,How can time-series decomposition enhance predictive analytics when forecasting seasonal sales trends?
+QN23,TS01,Predictive Analytics,How can combining predictive analytics with real-time data streams improve decision-making in dynamic business environments?
+QN24,TS01,Data Preparation,How can advanced data normalization techniques impact the outcome of multivariate visual analytics? Provide an example scenario.
+QN25,TS01,Exploratory Data Analysis,Which type of plot best reveals complex relationships among three continuous variables in Exploratory Data Analysis? Explain why briefly.
+QN26,TS02,Intro to Data Analytics,How can data granularity impact trend analysis in real-time data visualization dashboards?
+QN27,TS02,Intro to Data Analytics,How can detecting anomalies in a dataset transform strategic business decisions in data analytics?
+QN28,TS02,Intro to Data Analytics,How can anomaly detection in data analytics transform business decision-making during unexpected market changes?
+QN29,TS02,Intro to Data Analytics,How does exploratory data analysis transform raw datasets into actionable insights before formal statistical testing?
+QN30,TS02,Intro to Data Analytics,How can anomaly detection enhance decision-making in data analytics beyond traditional trend analysis?
+QN31,TS02,Exploratory Data Analysis,How can you identify subtle data clustering patterns in a scatterplot when traditional correlation coefficients show weak relationships?
+QN32,TS02,Exploratory Data Analysis,How can detecting multicollinearity during Exploratory Data Analysis affect feature selection in predictive modeling?
+QN33,TS02,Exploratory Data Analysis,How can a box plot reveal data skewness and potential outliers during exploratory data analysis? Explain with an example scenario.
+QN34,TS02,Intro to Data Analytics,How can feedback loops within data analytics improve predictive model accuracy over successive iterations? Explain with an example.
+QN35,TS02,Exploratory Data Analysis,How can the use of parallel coordinate plots uncover complex multivariate outliers during Exploratory Data Analysis?
+QN36,TS02,Exploratory Data Analysis,How can using a mosaic plot reveal interaction effects between categorical variables that bar charts may miss in exploratory data analysis?
+QN37,TS02,Data Preparation,How can feature scaling profoundly impact the outcome of clustering algorithms during data preparation? Explain with an example.
+QN38,TS02,Intro to Data Analytics,How can data cleaning techniques directly impact the accuracy of insights generated in the initial stages of data analytics?
+QN39,TS02,Data Preparation,"How can feature scaling impact the outcome of exploratory data analysis in complex, multi-dimensional datasets?"
+QN40,TS02,Exploratory Data Analysis,How can the principle of “data masking” enhance insights during exploratory analysis without compromising sensitive information?
+QN41,TS02,Data Preparation,How can anomaly detection in data preparation improve the accuracy of predictive models in data visualization?
+QN42,TS02,Data Preparation,How can reconstructing dummy variables impact multicollinearity in regression when preparing data for visualization?
+QN43,TS02,Predictive Analytics,How can time series decomposition improve accuracy in predictive analytics when forecasting seasonal sales patterns?
+QN44,TS02,Data Preparation,"How can dimensionality reduction during data preparation enhance both visualization clarity and algorithmic efficiency in large, multi-feature datasets?"
+QN45,TS02,Predictive Analytics,"How can Shapley values improve interpretability in predictive models, and why is this important for data-driven decision-making?"
+QN46,TS02,Data Preparation,"How does high cardinality in categorical data impact visualization effectiveness, and what unique data preparation methods can mitigate its issues?"
+QN47,TS02,Predictive Analytics,"How can ensemble methods improve accuracy in predictive analytics compared to individual models, and what potential pitfalls might they introduce?"
+QN48,TS02,Predictive Analytics,How can visualizing residual errors enhance the interpretation of predictive model performance beyond traditional accuracy metrics?
+QN49,TS02,Predictive Analytics,"How can incorporating external unstructured data enhance the accuracy of a predictive analytics model, and what challenges might it introduce?"
+QN50,TS02,Predictive Analytics,How can domain knowledge enhance the feature selection process to improve predictive model accuracy in real-world datasets?
+QN51,TS05,Data Manipulation in pandas,How can you efficiently add a new column in pandas based on a condition applied to multiple existing columns without using loops?
+QN52,TS05,Introduction to Data Science in Python,How can you efficiently handle missing values in a large pandas DataFrame without significantly increasing memory usage? Describe with Python code.
+QN53,TS05,Introduction to Data Science in Python,"Explain how Python’s dictionary comprehension can be applied to transform messy survey data into a clean, categorized data structure in one snippet."
+QN54,TS05,Data Manipulation in pandas,How do you effectively handle and fill missing values differently when targeting aggregation vs machine learning tasks using pandas?
+QN55,TS05,Introduction to Data Science in Python,Explain how you would handle missing data differently when preparing a dataset for a classification model versus a time-series forecast in Python.
+QN56,TS05,Introduction to Data Science in Python,How can you efficiently handle missing data in a large Pandas DataFrame without dropping rows or columns? Explain the Python approach.
+QN57,TS05,Dealing with Missing Data in Python,How can you implement and compare K-Nearest Neighbors imputation versus multiple imputation on a dataset with non-random missing values using Python?
+QN58,TS05,Dealing with Missing Data in Python,How can you use Python to create a predictive model that imputes missing values based on surrounding data patterns instead of mean or median?
+QN59,TS05,Dealing with Missing Data in Python,How can you use Python to identify patterns in non-random missing data before applying imputation techniques?
+QN60,TS05,Data Manipulation in pandas,How can you efficiently pivot a DataFrame with hierarchical indexes using pandas while preserving both row and column multi-index structures?
+QN61,TS05,Data Manipulation in pandas,How can you efficiently reshape a DataFrame from wide to long format using pandas without losing column metadata?
+QN62,TS05,EDA in Python,How can you detect and visualize multivariate outliers using Python weaved orchestrating capabilities of pandas and scipy during EDA?
+QN63,TS05,Dealing with Missing Data in Python,"Explain how the interpolation method differ from forward-fill when imputing missing time-series data in pandas, and name one scenario where interpolation is preferred."
+QN64,TS05,EDA in Python,What unique insight can latent variable plots provide during EDA that traditional histogram or scatter plots might overlook in Python?
+QN65,TS05,EDA in Python,"How can pandas profiling enhance EDA when exploring datasets larger than 1 million rows, and what are the potential limitations to consider?"
+QN66,TS05,EDA in Python,How can you use Pandas and Matplotlib together to identify outliers during Exploratory Data Analysis in a singular line of code?
+QN67,TS05,Introduction to Data Visualisation with Seaborn,How does Seaborn’s ‘darkgrid’ style enhance pattern recognition in scatter plots compared to ‘whitegrid’ when visualizing multi-dimensional data?
+QN68,TS05,Introduction to Data Visualisation with Seaborn,How can you customize a Seaborn heatmap to display both the correlation values and visually highlight statistically significant correlations at a given alpha level?
+QN69,TS05,Introduction to Regression with stats models in Python,How does the `sm.add_constant()` function influence model interpretation and why is it critical when performing regression in `statsmodels`?
+QN70,TS05,Introduction to Regression with stats models in Python,How can heteroscedasticity in a regression model be detected and addressed using statsmodels diagnostic tools in Python?
+QN71,TS05,Cluster Analysis in Python (K-Means Clustering),How can you modify the K-Means API to initially center clusters on user-specified coordinates instead of random centroids in Python's sklearn?
+QN72,TS05,Introduction to Regression with stats models in Python,"How can transforming predictors in statsmodels, like using a log or polynomial term, improve regression model fit and interpretation? Illustrate with syntax."
+QN73,TS05,Cluster Analysis in Python (K-Means Clustering),"How can you interpret the impact of different feature scales on K-Means clustering results, and which Python technique ensures fair distance calculation?"
+QN74,TS05,Introduction to Data Visualisation with Seaborn,"How can Seaborn's `catplot` be customized to simultaneously display distribution, category separation, and ordering of categorical variables?"
+QN75,TS05,Cluster Analysis in Python (K-Means Clustering),"How can you use the Elbow Method to determine the optimal number of clusters when applying K-Means in Python, and why might it fail?"
+QN76,TS06,Dealing with Missing Data in Python,How would you implement a custom imputation function in Python to replace missing values based on the mean of the closest cluster?
+QN77,TS06,Introduction to Data Science in Python,How can list comprehensions in Python accelerate data preprocessing compared to traditional loops in a large dataset? Explain briefly.
+QN78,TS06,Dealing with Missing Data in Python,"How can you use interpolation methods in pandas to estimate missing time-series data, and which method preserves trend best? Explain briefly."
+QN79,TS06,Data Manipulation in pandas,"How can you reshape a DataFrame pivoted longer using pandas back to its wide format, while preserving multi-level column indices?"
+QN80,TS06,Introduction to Data Science in Python,How can lambda functions be used to efficiently apply conditional transformations on pandas DataFrame columns in Python? Illustrate with a brief example.
+QN81,TS06,Dealing with Missing Data in Python,How can you use interpolation methods in pandas to intelligently fill missing time-series data while preserving the underlying trend?
+QN82,TS06,Introduction to Data Science in Python,How can list comprehensions improve data processing efficiency when handling large datasets in Python’s pandas library? Explain with a small code example.
+QN83,TS06,Data Manipulation in pandas,How can you efficiently merge two large DataFrames on multiple columns while preserving row order using pandas? Explain briefly.
+QN84,TS06,Data Manipulation in pandas,How can you efficiently combine pivot and melt within pandas to reshape a dataset with both hierarchical column headers and missing values?
+QN85,TS06,EDA in Python,How can you visualize missing data patterns across multiple variables using a Python library beyond seaborn and matplotlib? Name the library and function.
+QN86,TS06,Introduction to Data Science in Python,How can Python’s pandas library enhance exploratory data analysis through its method chaining capabilities? Give one practical example.
+QN87,TS06,Dealing with Missing Data in Python,Explain how iterative imputation differs from mean substitution and describe one Python library that supports iterative imputation methods.
+QN88,TS06,EDA in Python,How can you identify hidden data patterns using Python’s pandas and seaborn libraries during exploratory data analysis? Illustrate with code.
+QN89,TS06,Introduction to Data Visualisation with Seaborn,How does Seaborn’s `catplot` function internally combine different plot types to enhance categorical data visualization?
+QN90,TS06,EDA in Python,How can you identify and visually highlight correlation clusters in a large dataset during EDA using Python? Name specific libraries and methods.
+QN91,TS06,Introduction to Data Visualisation with Seaborn,How can you customize the hue of a seaborn violin plot to distinguish three categorical groups using a specific color palette?
+QN92,TS06,EDA in Python,How can you use Python's visualization libraries to identify hidden clusters in a high-dimensional dataset during exploratory data analysis?
+QN93,TS06,Introduction to Data Visualisation with Seaborn,How can Seaborn's `catplot` be customized to simultaneously compare distributions and counts across multiple categories? Describe with an example.
+QN94,TS06,Introduction to Regression with stats models in Python,"How can multicollinearity affect the interpretation of regression coefficients in a statsmodels OLS model, and which diagnostic can you use to detect it?"
+QN95,TS06,Cluster Analysis in Python (K-Means Clustering),How can the choice of initialization method in K-Means affect convergence speed and cluster quality when using Python's scikit-learn library?
+QN96,TS06,Data Manipulation in pandas,How can you efficiently replace all negative values in a pandas DataFrame column with the column's mean without using explicit loops?
+QN97,TS06,Cluster Analysis in Python (K-Means Clustering),"How can the choice of initial centroids affect k-means clustering results, and which Python method helps select better seeds to improve reproducibility?"
+QN98,TS06,Cluster Analysis in Python (K-Means Clustering),"How can the Elbow Method mislead you in determining the optimal number of clusters in K-Means, and which alternative approach can mitigate this?"
+QN99,TS06,Introduction to Regression with stats models in Python,"How can you interpret heteroscedasticity in a regression residual plot using statsmodels, and which diagnostic test would you apply programmatically to confirm it?"
+QN100,TS06,Introduction to Regression with stats models in Python,"How can you interpret multicollinearity impact on regression coefficients when using statsmodels, and which diagnostic in the model summary helps detect it?"
+QN101,TS07,Data Integration: MySQL,How can you optimize real-time data synchronization between MySQL and a NoSQL system in a data warehousing environment?
+QN102,TS07,Data Integration: MySQL,How can you efficiently merge incremental data changes from multiple sources into a MySQL data warehouse without overwriting existing records?
+QN103,TS07,BI Intelligence,"How can embedding conversational AI in BI platforms reshape decision-making with real-time, intuitive business insights?"
+QN104,TS07,Data Integration: MySQL,How can MySQL’s FEDERATED storage engine enhance data integration across distributed data warehouses?
+QN105,TS07,BI Intelligence,How can BI Intelligence leverage unstructured data to enhance predictive analytics in dynamic market environments?
+QN106,TS07,Data Integration: MySQL,How can MySQL handle incremental data loads during ETL processes for real-time data integration in data warehousing applications?
+QN107,TS07,Data Integration: MySQL,How can MySQL triggers be employed to automate data validation during ETL processes in data warehousing pipelines?
+QN108,TS07,BI Intelligence,How can BI Intelligence leverage machine learning to transform raw data into proactive business strategies?
+QN109,TS07,Data Integration: MySQL,"How can you optimize MySQL’s data import process to handle large, heterogeneous datasets from multiple sources without compromising data integrity?"
+QN110,TS07,BI Intelligence,How does the integration of augmented analytics enhance decision-making accuracy in modern BI intelligence systems?
+QN111,TS07,BI Intelligence,How does embedding real-time BI intelligence in customer-facing apps transform decision-making dynamics compared to traditional dashboard reports?
+QN112,TS07,BI Intelligence,How can embedded BI transform decision-making in real-time operational processes compared to traditional BI reporting?
+QN113,TS07,Data Integration: MySQL,How can you automate incremental data loads into MySQL for efficient ETL processes in a data warehousing environment?
+QN114,TS07,DW Model: Normalization + SCD,How does Slowly Changing Dimension Type 2 maintain historical data integrity while applying third normal form principles in a layered data warehouse model?
+QN115,TS07,DW Model: Normalization + SCD,"How does datum normalization influence tracking slowly changing dimensions (SCD) in a star schema, and what challenges arise from combining both?"
+QN116,TS07,DW Model: Normalization + SCD,How does a Type 2 Slowly Changing Dimension ensure historical accuracy while maintaining normalization in a star schema design?
+QN117,TS07,DW Model: Normalization + SCD,How does storing historical data in Type 2 Slowly Changing Dimension affect normalization principles in a data warehouse schema?
+QN118,TS07,DW Model: DW Schemas,How does a data warehouse constellation schema optimize complex queries compared to star and snowflake schemas?
+QN119,TS07,DW Model: DW Schemas,Compare how snowflake and galaxy schemas optimize query performance and storage efficiency in complex data warehousing environments.
+QN120,TS07,DW Model: DW Schemas,"How does the Snowflake schema optimize storage compared to the Star schema, and what complexities does it introduce in query processing?"
+QN121,TS07,DW Model: DW Schemas,How does the design of a galaxy schema address the limitations of star and snowflake schemas in handling complex business processes?
+QN122,TS07,DW Model: DW Schemas,"How does a constellation schema improve query performance over star and snowflake schemas in complex, multi-fact data warehousing environments?"
+QN123,TS07,DW Model: DW Schemas,"How does the snowflake schema optimize storage compared to star schema, and what trade-offs does this introduce in query performance within data warehousing?"
+QN124,TS07,DW Model: Normalization + SCD,Explain how Slowly Changing Dimension Type 2 maintains historical accuracy while dealing with de-normalized warehouse schemas.
+QN125,TS07,DW Model: Normalization + SCD,Explain how Type 3 Slowly Changing Dimension manages historical data without losing limited past attribute changes. What trade-offs does it present?
+QN126,TS08,BI Intelligence,How does embedding predictive analytics within BI platforms transform decision-making in real-time business environments?
+QN127,TS08,Data Integration: MySQL,How can MySQL handle real-time incremental data synchronization from multiple heterogeneous sources in a data warehouse integration workflow?
+QN128,TS08,BI Intelligence,How does real-time BI intelligence transform decision-making compared to traditional batch processing in data warehouses?
+QN129,TS08,Data Integration: MySQL,How can you use MySQL triggers to automate data validation during integration from multiple sources in a data warehouse environment?
+QN130,TS08,Data Integration: MySQL,How can MySQL handle late-arriving data in a data integration ETL pipeline without disrupting existing analytics workflows?
+QN131,TS08,Data Integration: MySQL,How can MySQL’s FEDERATED storage engine enhance real-time data integration across multiple distributed databases in a data warehouse environment?
+QN132,TS08,Data Integration: MySQL,How can MySQL’s federated storage engine be leveraged to integrate distributed data sources in a data warehousing environment?
+QN133,TS08,Data Integration: MySQL,How can MySQL handle incremental data integration efficiently for real-time business intelligence updates without disrupting ongoing transactions?
+QN134,TS08,Data Integration: MySQL,How can MySQL’s federated storage engine optimize querying across multiple distributed databases for seamless data integration in a data warehouse?
+QN135,TS08,BI Intelligence,How can BI Intelligence leverage natural language processing to transform unstructured data into actionable business insights?
+QN136,TS08,DW Model: Normalization + SCD,Explain the impact of Type 2 Slowly Changing Dimensions on data normalization in a star schema design.
+QN137,TS08,DW Model: Normalization + SCD,Explain how a hybrid normalization approach can impact Slowly Changing Dimensions (SCD) in a data warehouse model and its effect on query performance.
+QN138,TS08,DW Model: Normalization + SCD,How does Type 3 Slowly Changing Dimension differ from full normalization in handling historical attribute data within a data warehouse schema?
+QN139,TS08,DW Model: Normalization + SCD,How does applying normalization influence the design and maintenance of Slowly Changing Dimensions in a data warehouse?
+QN140,TS08,BI Intelligence,How can BI Intelligence leverage real-time data streaming to enhance predictive analytics in dynamic retail environments?
+QN141,TS08,BI Intelligence,How can embedded analytics revolutionize decision-making in BI intelligence beyond traditional reporting methods?
+QN142,TS08,DW Model: Normalization + SCD,Explain how different types of Slowly Changing Dimensions (SCD) impact normalization in a data warehouse schema design.
+QN143,TS08,DW Model: DW Schemas,Explain how snowflake schema optimizes storage differently than star schema in a data warehouse environment.
+QN144,TS08,DW Model: DW Schemas,Explain how aggregation hierarchies differ and function across star and snowflake schema designs in data warehousing.
+QN145,TS08,DW Model: Normalization + SCD,"How does integrating Type 3 Slowly Changing Dimension affect normalization in a data warehouse schema, and what trade-offs does it introduce?"
+QN146,TS08,BI Intelligence,How can predictive analytics in BI Intelligence transform raw historical data into actionable business foresight?
+QN147,TS08,DW Model: DW Schemas,How do iceberg schemas optimize query performance differently compared to star and snowflake schemas in a data warehouse environment?
+QN148,TS08,DW Model: DW Schemas,How does a galaxy schema extend a star schema to support complex many-to-many relationships in data warehousing?
+QN149,TS08,DW Model: DW Schemas,How does a constellation schema enhance query performance compared to a traditional star schema in data warehousing?
+QN150,TS08,DW Model: DW Schemas,"How does a snowflake schema optimize data storage compared to a star schema, and what is its impact on query complexity?"
+QN151,TS03,Logic,"If every truth-teller tells true statements, can a truth-teller ever declare a false statement by mistake? Explain your answer logically."
+QN152,TS03,Logic,"If all dragonflies are fireflies and some fireflies are jellyfish, can we conclude dragonflies are jellyfish? Explain your reasoning."
+QN153,TS03,Logic,"If a statement’s negation is true only when the statement is false, what logical law does this describe?"
+QN154,TS03,Function,"Define a function \( f: \mathbb{Z} \to \mathbb{Z} \) that is neither injective nor surjective, and explain why it meets these conditions."
+QN155,TS03,Logic,"If ""If P then Q"" is false, what must be true about P and Q simultaneously?"
+QN156,TS03,Function,"If f: A → B is bijective and f⁻¹: B → A is its inverse, prove why the composition f⁻¹∘f equals the identity function on A."
+QN157,TS03,Function,"If f(x) = x² and g(x) = 2x + 1, find (f ∘ g)(x) - (g ∘ f)(x) and explain the result."
+QN158,TS03,Function,"If \( f:\mathbb{R}\to\mathbb{R} \) satisfies \( f(f(x)) = x^2-2 \), what are all possible values of \( f(0) \)?"
+QN159,TS03,Logic,"If a statement is neither true nor false, what logical system challenges classical bivalent logic by allowing a third truth value?"
+QN160,TS03,Function,"If \( f: \mathbb{R} \to \mathbb{R} \) satisfies \( f(f(x)) = 4x + 3 \), find an explicit formula for \( f(x) \)."
+QN161,TS03,Graphs,"In a graph with unique edge weights, how many distinct minimum spanning trees can exist, and why?"
+QN162,TS03,Graphs,"In a graph where every vertex has an even degree, explain why the graph must contain at least one Eulerian circuit."
+QN163,TS03,Sequence & Recursion,"Define a recursive sequence where aₙ = aₙ₋₁ + 2aₙ₋₂, with a₁ = 2, a₂ = 3. Find a₄ without direct calculation. Explain logic."
+QN164,TS03,Sequence & Recursion,"Define a new sequence where each term equals the product of its position and the previous term, starting with 2. Find the 5th term."
+QN165,TS03,Graphs,"In a directed graph where each vertex’s outdegree equals its indegree, can every edge belong to a cycle? Explain why or why not."
+QN166,TS03,Graphs,"In a graph where each node's degree equals a prime number, prove or disprove that the total number of edges must be even."
+QN167,TS03,Sequence & Recursion,Define a sequence where each term is the product of its position number and the sum of all previous terms; find the 5th term.
+QN168,TS03,Sequence & Recursion,"Given the sequence defined by \(a_1 = 2\) and \(a_{n+1} = a_n^2 - a_n + 1\), prove its monotonicity for \(n \geq 1\)."
+QN169,TS03,Sequence & Recursion,Define a sequence \((a_n)\) by \(a_1 = 2\) and \(a_{n+1} = \frac{a_n}{1 + a_n}\). Find a closed form expression for \(a_n\).
+QN170,TS03,Probability,"If two independent events each have a probability of 0.6, what is the probability that exactly one event occurs?"
+QN171,TS03,Probability,"In a box with 5 red, 3 blue, and 2 green balls, what's the probability of drawing two balls of different colors in succession without replacement?"
+QN172,TS03,Probability,"If three biased coins have probabilities of heads 0.3, 0.5, and 0.7 respectively, what is the probability exactly two show heads?"
+QN173,TS03,Probability,"If two dependent events A and B satisfy P(A) = 0.4, P(B|A) = 0.5, and P(A ∩ B) = 0.2, find P(B)."
+QN174,TS03,Probability,"If three events A, B, and C satisfy P(A∪B)=0.7, P(B∪C)=0.8, and P(A∪C)=0.75, what is the minimum possible P(A∩B∩C)?"
+QN175,TS03,Graphs,"If a connected graph's vertices each have unique prime degrees, what is the maximum number of edges it can contain without creating a cycle?"
+QN176,TS04,Logic,"If a statement is ""If P then Q"" and its contrapositive is false, what can you deduce about the truth values of P and Q?"
+QN177,TS04,Logic,"If Q → R is false, and R → S is true, what can you infer about Q and S? Explain briefly."
+QN178,TS04,Logic,"If every psychologist is a thinker, and some thinkers are dreamers, can any psychologist fail to be a dreamer? Explain briefly."
+QN179,TS04,Logic,"If P implies Q and Q implies R, does R imply P? Explain using a truth table or logical proof."
+QN180,TS04,Function,"If f(x) is invertible and f(f(x)) = 2x + 3, find a formula for f⁻¹(x)."
+QN181,TS04,Function,"If f(x) = 2x + 3 and f⁻¹(x) is its inverse, find f⁻¹(7) without explicitly solving for the full inverse function."
+QN182,TS04,Function,"Define a function \( f \) over primes only, mapping each to its smallest prime factor successor. Is \( f \) injective, surjective, or bijective? Explain."
+QN183,TS04,Function,"If \( f \circ g \) is bijective and \( g \) is injective, must \( f \) be surjective? Justify your answer."
+QN184,TS04,Logic,"In a room where every knight always lies but says ""I always lie,"" what truth can you deduce about their statements?"
+QN185,TS04,Function,"If \( f \circ g \) is injective, is \( g \) necessarily injective? Explain why or provide a counterexample."
+QN186,TS04,Sequence & Recursion,Define a non-linear recursive sequence where each term is the product of the previous term and the position index minus 2; find the 5th term given the first is 3.
+QN187,TS04,Graphs,How does the spectrum of a graph's adjacency matrix influence the graph's connectivity and what real-world networks reflect these spectral properties?
+QN188,TS04,Sequence & Recursion,Define a sequence where each term equals the sum of squares of the previous two terms; find the 5th term if the 1st and 2nd are 1 and 2.
+QN189,TS04,Sequence & Recursion,Define a sequence {a_n} where a_1 = 2 and a_(n+1) = a_n^2 - 2. Prove its values relate to a special class of numbers.
+QN190,TS04,Graphs,"In a weighted graph, how does increasing all edge weights by the same constant affect the minimum spanning tree? Explain briefly."
+QN191,TS04,Sequence & Recursion,Define a sequence where each term equals the product of the previous term and its position. Find the 5th term if the 1st term is 2.
+QN192,TS04,Graphs,"In a weighted graph, if all edge weights are unique primes, how does this impact finding the MST using Kruskal’s algorithm? Explain briefly."
+QN193,TS04,Graphs,"In a planar graph with exactly 10 vertices and 17 edges, what is the maximum possible number of faces, including the outer face?"
+QN194,TS04,Sequence & Recursion,"Given the sequence defined by \( a_1 = 3 \) and \( a_{n+1} = a_n^2 - 2 \), find \( a_4 \)."
+QN195,TS04,Probability,"If two dice are rolled, what is the probability their sum is a prime number but not 2, 3, or 5?"
+QN196,TS04,Graphs,"In a simple connected graph, what's the minimum number of edges to remove to disconnect all cycles and leave a spanning tree?"
+QN197,TS04,Probability,"If two independent events each have a 60% chance of occurring, what is the probability that exactly one of them occurs?"
+QN198,TS04,Probability,"In a sealed box of 15 coins, 3 are double-headed. If one coin flipped shows heads 4 times, what is the probability it's double-headed?"
+QN199,TS04,Probability,"If three dice are rolled, what's the probability that the sum is a prime number and at least one die shows a 4?"
+QN200,TS04,Probability,"If two independent coins are flipped until the first head appears on both, what is the probability it takes exactly 4 total flips combined?"

@@ -1,0 +1,51 @@
+html, body {
+    font-size: 20px !important;
+  }
+  h1 {
+    font-size: 2.6em !important;
+  }
+  h2, .stMarkdown h2 {
+    font-size: 2.1em !important;
+  }
+  h3, .stMarkdown h3 {
+    font-size: 1.5em !important;
+  }
+  p {
+    font-weight: inherit;
+  }
+
+[data-testid="stSidebar"] { display: none !important; }
+[data-testid="collapsedControl"] { display: none !important; }
+.st-emotion-cache-1f3w014 { display: none !important; }
+
+/* Remove extra padding at the top of the main container */
+.stMainBlockContainer.block-container {
+    padding-top: 0rem !important;
+}
+/* Tweak title & markdown header margins */
+h1, .stMarkdown h1 {
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.5rem !important;
+}
+/* Reduce default block margins */
+.stMarkdown, .stText {
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.2rem !important;
+}
+
+/* Hide top toolbar (Deploy button and menu) */
+header {
+    display: contents !important;
+}
+
+header button {
+  display: none !important;
+}
+
+/* Hide the MainMenu (hamburger menu) */
+#MainMenu {
+  display: none !important;
+}
+.stAppToolbar{ 
+  display: none !important;
+}

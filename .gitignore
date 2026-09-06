@@ -1,0 +1,27 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# macOS and editor files
+.DS_Store
+.idea/
+.vscode/
+~$*
+
+# Generated outputs
+exports/*
+components/output_brainrot.mp4
+*.log
